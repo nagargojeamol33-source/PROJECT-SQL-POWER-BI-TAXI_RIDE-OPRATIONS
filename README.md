@@ -9,10 +9,7 @@ bottlenecks in New York's transport system.
 
  KEY OBJECTIVE 
 Sales Intelligence: Analyzing fare components (tips, tolls, surcharges) to increase total revenue.
-Demand Hotspots: Using location data to identify high-demand zones for better vehicle deployment.
-Operational Efficiency: Calculating average trip distances and durations to optimize driver shifts.
-Payment Trends: Evaluating the shift between cash, online and credit card transactions.
-
+Demand Hotspots: Using location data to identify high-demand zones for better vehicle 
  TECHNICAL
 atabase: SQL (SQL Server / MySQL / PostgreSQL) - Used for Data Cleaning, Joins, and Aggregations.
 Visualization: Power BI - Used for creating interactive DAX-powered dashboards.
