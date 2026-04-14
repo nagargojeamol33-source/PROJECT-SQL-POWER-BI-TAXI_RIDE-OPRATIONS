@@ -1,0 +1,14 @@
+project structure 
+│
+├──   SQL_Queries 
+│   ├── 01_Data_Cleaning.sql  # (NULLs hatana, duplicates handle karna)
+│   ├── 02_Data_Analysis.sql  # (Total rides, peak hours, revenue trends)
+│   └── 03_Outlier_Check.sql  
+│
+├──   Dashboard/             # Visuals
+│   ├── NYC_Taxi_Dashboard.pbix
+│   └── Dashboard_Preview.jpeg
+│
+├──  Documentation/ 
+│   └── data_column_details.md
+│
