@@ -2,12 +2,6 @@ Comprehensive data analysis of NYC taxi trip records to optimize fleet operation
 Features SQL-based data cleaning, Analysis, and interactive dashboarding.
 NYC Taxi Operations & Sales Analysis
 
-Project Structure
-├── SQL_Scripts/All SQL queries (Cleaning & Analysis)
-├── Dashboard/          
- .pbix file and Dashboard
-├── Data/Documentation about the dataset source
-└── README.md
    PROJECT OVERVIEW 
 This project analyzes the NYC Taxi and Limousine Commission (TLC) dataset to optimize fleet operations and sales performance.
 Using SQLfor heavy data lifting and Power BI for interactive storytelling, the project identifies key revenue drivers and operational 
