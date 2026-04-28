@@ -1,3 +1,14 @@
+PROBLEM STATEMENT :      
+       The urban transportation landscape in New York City is highly dynamic, with taxi demand fluctuating based on time,           location, and external factors. The objective of this project is to analyze extensive trip record data to identify           key patterns in passenger behavior, peak traffic hours, and high-demand zones.
+By performing exploratory data analysis (EDA), the project aims to
+Optimize Fleet Management:
+Identify time slots and locations where the demand-supply gap is highest.
+Revenue Analysis: 
+Understand the factors influencing fare amounts, including trip distance, tolls, and tipping patterns.
+Efficiency Mapping:
+Analyze trip durations and congestion patterns to suggest the most efficient routes or zones for drivers.
+The final goal is to provide data-driven insights that can help taxi service providers improve operational efficiency and maximize driver earnings
+
 Comprehensive data analysis of NYC taxi trip records to optimize fleet operations and maximize sales revenue.
 Features SQL-based data cleaning, Analysis, and interactive dashboarding.
 NYC Taxi Operations & Sales Analysis
